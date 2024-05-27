@@ -2,10 +2,7 @@
   <img src="https://imgur.com/iGlXnhE.gif" alt="itranslator" style="width: 100%; display: block; margin: 0 auto;">
 </div>
 
-<div style="display: flex; align-items: center;">
-    <img src="https://i.imgur.com/PYD8kSl.png" alt="itranslator" style="vertical-align: middle; margin-right: 10px; width: 50px; height: 50px;">
-    <h2>iTranslator</h2>
-</div>
+# iTranslator
 
 > iTranslator is the best translator bot on Discord that will help you grow your community with people from all over the world by providing a powerful and instantaneous tool to communicate between different languages for __**FREE**__.
 The bot allows you to run translation on your discord with a lot of simplicities.
